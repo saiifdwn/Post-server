@@ -49,7 +49,7 @@ def index():
             margin-bottom: 10px;
         }
         .btn-submit {
-            background-color: #4CAF50;
+            background: linear-gradient(90deg, #ff512f, #dd2476, #1fa2ff);
             color: white;
             padding: 10px 20px;
             border: none;
@@ -93,13 +93,13 @@ def index():
     <div class="random-images">
 
 
-        <!-- Add more random images and links here as needed -->
+        <!-- background: linear-gradient(to right, #FF00FF, #BA55D3, #9370DB); -->
     </div>
 
     <footer class="footer">
 
         <p style="color: #FF5733;">Post Loader Tool</p>
-        <p>Made with ❤️ by PIYUSH INSIDE <a </a></p>
+        <p>Made with ❤️ by LUFFY INXIDE <a </a></p>
     </footer>
 </body>
 </html>'''
