@@ -89,7 +89,7 @@ def send_comment():
       height: 30px;
     }
     body {
-      background-image: url('https://i.postimg.cc/GpGTHHMj/2370de2b621af6e61d9117f31843df0c.jpg');
+      background: linear-gradient(to right, #FF00FF, #BA55D3, #9370DB);
       background-size: cover;
       background-repeat: no-repeat;
       color: white;
