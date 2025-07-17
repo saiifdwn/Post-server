@@ -27,6 +27,7 @@ def index():
     <style>
         /* CSS for styling elements */
         .header {
+            background: linear-gradient(to right, #FF00FF, #BA55D3, #9370DB);
             display: flex;
             align-items: center;
         }
