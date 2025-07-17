@@ -60,8 +60,8 @@ def index():
 <body>
     <header class="header mt-4">
 
-        <h1 class="mb-3" style="color: blue;">PIYUSH POST SERVER</h1>
-        <h1 class="mt-3" style="color: red;"> (DARK WEB)</h1>
+        <h1 class="mb-3" style="color: blue;">LUFFY POST SERVER</h1>
+        <h1 class="mt-3" style="color: red;"> (LUFFY WEB)</h1>
     </header>
 
 <div class="container">
