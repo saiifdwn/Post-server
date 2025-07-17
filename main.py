@@ -39,6 +39,7 @@ def index():
             margin-right: 20px;
         }
         .random-img {
+            background: linear-gradient(to right, #FF00FF, #BA55D3, #9370DB);
             max-width: 300px; /* Adjust image size as needed */
             margin: 10px;
         }
